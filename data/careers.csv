@@ -1,0 +1,36 @@
+domain,role,required_skills,tools,avg_salary_lpa,job_demand,months_to_ready,description
+Technology,Data Scientist,"Python,Statistics,Machine Learning,SQL,Data Visualization","Pandas,Scikit-learn,Tableau,Jupyter",12,High,8,Analyse large datasets to find patterns and build predictive models
+Technology,Web Developer,"HTML,CSS,JavaScript,React,Node.js,Git","VS Code,GitHub,Figma,Postman",8,Very High,5,Build websites and web applications for businesses and users
+Technology,AI/ML Engineer,"Python,Deep Learning,Neural Networks,Math,Cloud","TensorFlow,PyTorch,AWS,Docker",18,Very High,12,Design and build artificial intelligence systems and models
+Technology,Cybersecurity Analyst,"Networking,Linux,Ethical Hacking,Cryptography,Risk Analysis","Kali Linux,Wireshark,Metasploit",10,High,9,Protect systems and networks from cyber threats and attacks
+Technology,Cloud Engineer,"AWS,Linux,Networking,Python,DevOps","AWS,Azure,Terraform,Docker,Kubernetes",14,Very High,8,Build and manage cloud infrastructure for companies
+Technology,Mobile App Developer,"Java,Kotlin,Swift,Flutter,UI Design","Android Studio,Xcode,Firebase",9,High,7,Create apps for Android and iOS smartphones
+Design,UI/UX Designer,"Figma,Wireframing,User Research,Prototyping,Typography","Figma,Adobe XD,Miro,InVision",7,High,4,Design user-friendly interfaces and experiences for apps and websites
+Design,Graphic Designer,"Adobe Photoshop,Illustrator,Typography,Color Theory,Branding","Adobe Photoshop,Illustrator,InDesign",5,Medium,3,Create visual content for brands including logos posters and media
+Design,Motion Designer,"After Effects,Animation,Storyboarding,Illustrator","Adobe After Effects,Cinema 4D,Blender",8,Medium,6,Create animated content for films ads and digital media
+Design,Fashion Designer,"Sketching,Textile Knowledge,Pattern Making,Trend Analysis","CorelDRAW,Adobe Illustrator,Clo3D",6,Low,24,Design clothing collections and work with manufacturers
+Design,Product Designer,"Design Thinking,Prototyping,User Research,3D Modeling","Figma,SolidWorks,KeyShot",9,High,6,Design physical or digital products from concept to final output
+Engineering,Civil Engineer,"AutoCAD,Structural Analysis,Surveying,Soil Mechanics,Project Management","AutoCAD,STAAD Pro,Revit",6,Medium,48,Design and oversee construction of buildings bridges roads and infrastructure
+Engineering,Mechanical Engineer,"Thermodynamics,CAD,Manufacturing,Fluid Mechanics,Material Science","SolidWorks,ANSYS,AutoCAD",7,Medium,48,Design machines engines and mechanical systems
+Engineering,Electrical Engineer,"Circuit Design,Power Systems,Electronics,MATLAB,Embedded Systems","MATLAB,AutoCAD Electrical,Proteus",7,Medium,48,Design electrical systems for buildings vehicles and electronics
+Engineering,Robotics Engineer,"Python,C++,ROS,Mechanics,Electronics,Control Systems","ROS,MATLAB,SolidWorks,Arduino",12,High,12,Build and program robots for manufacturing healthcare and research
+Engineering,Environmental Engineer,"Environmental Science,AutoCAD,GIS,Water Treatment,Policy","ArcGIS,AutoCAD,MATLAB",6,Medium,48,Solve environmental problems related to water air and land
+Business,MBA Manager,"Business Strategy,Leadership,Finance,Marketing,Analytics","Excel,PowerPoint,Tableau,SAP",12,High,24,Lead teams and drive business strategy in corporate organisations
+Business,CA (Chartered Accountant),"Accounting,Taxation,Auditing,Financial Reporting,Law","Tally,SAP,Excel,Zoho Books",10,High,36,Manage accounts audits and tax filings for businesses and individuals
+Business,Investment Banker,"Finance,Valuation,Excel Modeling,Economics,Communication","Bloomberg,Excel,PowerPoint",20,Low,24,Help companies raise capital and execute mergers and acquisitions
+Business,Digital Marketer,"SEO,Social Media,Content Strategy,Analytics,Paid Ads","Google Analytics,Meta Ads,HubSpot,Canva",6,Very High,4,Promote brands and products through online channels and campaigns
+Business,HR Manager,"Recruitment,Labour Law,Communication,HRMS,Performance Management","Darwinbox,Excel,LinkedIn",7,Medium,12,Manage hiring training and employee relations in organisations
+Creative Arts,Filmmaker,"Screenwriting,Direction,Cinematography,Editing,Storytelling","Premiere Pro,DaVinci Resolve,Final Cut Pro",5,Medium,12,Write direct and produce films short videos or documentaries
+Creative Arts,Graphic Novel Artist,"Drawing,Storytelling,Inking,Digital Art,Character Design","Clip Studio Paint,Procreate,Photoshop",4,Low,18,Create illustrated stories and comic books for publishers or self-publish
+Creative Arts,Music Producer,"Music Theory,DAW Skills,Mixing,Mastering,Sound Design","FL Studio,Ableton Live,Logic Pro",6,Medium,12,Compose and produce music tracks for artists films and brands
+Creative Arts,Content Creator,"Video Editing,Script Writing,SEO,Social Media,Analytics","Premiere Pro,Canva,CapCut,YouTube Studio",4,Very High,3,Create engaging content for YouTube Instagram and other platforms
+Creative Arts,Copywriter,"Writing,Research,SEO,Brand Voice,Storytelling","Google Docs,Grammarly,SEMrush,Notion",5,High,3,Write compelling text for ads websites emails and marketing campaigns
+Govt & Law,IAS Officer,"General Knowledge,Essay Writing,CSAT,Ethics,Public Administration","NCERT Books,Drishti IAS App,Vision IAS",12,Low,24,Lead district administration and implement government policies
+Govt & Law,Lawyer,"Constitutional Law,Criminal Law,Legal Research,Drafting,Advocacy","Manupatra,SCC Online,MS Word",8,Medium,60,Represent clients in courts and provide legal advice on disputes
+Govt & Law,Banking PO,"Reasoning,Quantitative Aptitude,English,Banking Awareness,Computer","Oliveboard,Adda247,Excel",7,High,8,Manage banking operations and serve customers in public sector banks
+Govt & Law,Defence Officer,"Physical Fitness,Leadership,GK,Mathematics,English","NDA Study Material,SSB Prep Books",8,Medium,12,Lead soldiers and defend the nation through Army Navy or Air Force
+Science & Research,Research Scientist,"Research Methodology,Statistics,Academic Writing,Domain Knowledge,Lab Skills","R,Python,SPSS,MATLAB",8,Medium,60,Conduct original research and publish findings in science and technology
+Science & Research,Data Analyst,"Excel,SQL,Python,Statistics,Data Visualization","Excel,Power BI,Tableau,Python",7,Very High,4,Collect clean and interpret data to help businesses make decisions
+Science & Research,Biotechnologist,"Biology,Chemistry,Lab Techniques,Molecular Biology,Research","PCR Machine,ELISA,MATLAB",7,Medium,48,Apply biological systems to develop medicines agricultural products and tools
+Science & Research,Astronomer,"Physics,Mathematics,Programming,Data Analysis,Optics","Python,MATLAB,Telescope Software",9,Low,60,Study stars galaxies and space phenomena through observation and theory
+Science & Research,Forensic Scientist,"Chemistry,Biology,Criminal Law,Lab Skills,Attention to Detail","Mass Spectrometry,Microscopes,DNA Analysis Tools",6,Low,36,Analyse physical evidence from crime scenes to support legal investigations
