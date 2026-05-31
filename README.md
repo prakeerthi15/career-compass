@@ -8,7 +8,7 @@ across 7 major career domains.
 ---
 
 ## 🔗 Live Demo
-[Click here to open the app](your-streamlit-link-here)
+[Click here to open the app](https://career-compass-lnjwfvygbwfxq7cdjapppmn.streamlit.app/)
 
 ---
 
