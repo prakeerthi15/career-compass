@@ -58,10 +58,8 @@ Students after 12th face difficulty choosing careers due to:
 
 ## 🚀 How to Run Locally
 
-## 🚀 How to Run Locally
-
 **1. Clone the repository**
-git clone https://github.com/yourusername/career-compass.git
+git clone https://github.com/prakeerthi15/career-compass.git
 
 **2. Install dependencies**
 pip install -r requirements.txt
